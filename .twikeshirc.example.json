@@ -1,0 +1,11 @@
+{
+  "dryRun": true,
+  "screenName": "",
+  "excludeIds": [],
+  "twitter": {
+    "consumerKey": "",
+    "consumerSecret": "",
+    "accessToken": "",
+    "accessTokenSecret": ""
+  }
+}
